@@ -1,0 +1,17 @@
+{
+  "title": "Light, fast & responsive",
+  "text": "Our innovative platform analyzes your coding activities, providing valuable insights into your work patterns, problem-solving efficiency, and overall performance.",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "notes.svg"
+    },
+    
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+  ]
+}

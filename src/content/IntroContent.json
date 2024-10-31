@@ -1,0 +1,13 @@
+{
+  "title": "LeetCode Performance Analysis",
+  "text": "Providing insights into users' strengths, weaknesses, and progress across topics. It helps users identify growth areas, optimize study efforts, and make data-driven decisions to enhance coding skills and problem-solving strategies.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
